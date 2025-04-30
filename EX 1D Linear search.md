@@ -11,11 +11,11 @@ To write a python program for a search function with parameter list name and the
 5. Print "Found" if found is True; otherwise, print "Not Found".
 ## Program:
 
-/*
+```
 Program to implement a search function with parameter list name and the value to be searched using string values.
 Developed by:   Praveen V
 Register Number:  212222040121
-*/
+```
 
 ```python
 def search(List,n):
