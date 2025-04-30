@@ -17,12 +17,12 @@ To write a program to create a recursive function to reverse a string.
 6. Print the result.
 
 ## Program:
-```python
-/*
+```
 Program to implement Reverse a String
 Developed by: Praveen V
 Register Number: 212222040121 
-*/
+```
+```
 def rev(a):
     if len(a)==0:
         return a
