@@ -13,8 +13,8 @@ To write a python program to sort the first half of the list using merge sort.
 
 /*
 Program to implement Merge Sort
-Developed by: ArunKumar.T
-Register Number:  212222040017
+Developed by: Praveen V
+Register Number:  212222040121
 */
 
 ```
