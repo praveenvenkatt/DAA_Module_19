@@ -11,14 +11,13 @@ To write a python program to implement quick sort using tha last element as pivo
 5. Print the sorted elements of arr. 
 
 ## Program:
-
-/*
+```
 Program to implement implement quick sort using the last element as pivot on the list of float values.
 Developed by:Praveen V
 Register Number:  212222040121
-*/
+```
 
-```python
+```
 def partition(arr, low, high):
     pivot = arr[high]
     i = low - 1
